@@ -27,3 +27,8 @@ It helps businesses to manage their operations effectively and efficiently.
 The system is user-friendly and easy to use.
 It provides real-time data and insights to help businesses make informed decisions.
 
+## Demo
+
+![icons8-restaurant-menu-64](https://github.com/user-attachments/assets/cf378cb1-27e7-407a-bea0-ad6a42ea2c0e)
+
+
