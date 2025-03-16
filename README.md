@@ -1,6 +1,6 @@
 
-# ![icons8-restaurant-menu-64](https://github.com/user-attachments/assets/cf378cb1-27e7-407a-bea0-ad6a42ea2c0e)
- E-desiMenu
+# E-desiMenu ![icons8-restaurant-menu-64](https://github.com/user-attachments/assets/cf378cb1-27e7-407a-bea0-ad6a42ea2c0e)
+
 
 E-DesiMenu is a rental-based system for restaurants and cafes.
 It offers a range of services, including scannable E-Menu, inventory management, task management, and employee management.
