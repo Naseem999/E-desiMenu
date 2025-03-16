@@ -28,7 +28,7 @@ It helps businesses to manage their operations effectively and efficiently.
 The system is user-friendly and easy to use.
 It provides real-time data and insights to help businesses make informed decisions.
 
-## Demo
+## A Glimpse of E-DesiMenu
 
 ![screenshot-localhost-82-e-desimenu-1612347661539 (1)](https://github.com/user-attachments/assets/ced9248b-92ba-4c89-b2e4-b0e698a65d46)
 ![screenshot-e-desimenu-000webhostapp-com-admin-qr_genration-php-1613369686718 (1)](https://github.com/user-attachments/assets/b6d238bf-5080-46fa-a2f9-257c9b2f8627)
