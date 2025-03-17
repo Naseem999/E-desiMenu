@@ -10,12 +10,16 @@ With E-DesiMenu, businesses can access a suite of innovative tools and services.
 
 
 ## Features
-
 - Scannable E-Menu for easy ordering
 - Inventory management to track stock levels
 - Task management to assign and track tasks
 - Employee management to manage schedules
 
+## Technical Details
+- Frontend: HTML,Materialize CSS, HTML, CSS, JS, jQuery
+- Backend: PHP
+- Payment Gateway: Razorpay
+- Database: Mysql
 
 ## How it Works
 - Subscribe to E-DesiMenu's rental-based plan
