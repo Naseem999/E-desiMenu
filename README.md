@@ -35,8 +35,7 @@ It provides real-time data and insights to help businesses make informed decisio
 ## Quick view
 ![e-DesiMenu](https://github.com/user-attachments/assets/092d877e-1564-46f1-933d-e1aecb644280)
 
-
-eenshot-e-desimenu-000webhostapp-com-admin-qr_genration-php-1613369686718 (1)](https://github.com/user-attachments/assets/b6d238bf-5080-46fa-a2f9-257c9b2f8627)
+![screenshot-e-desimenu-000webhostapp-com-admin-qr_genration-php-1613369686718 (1)](https://github.com/user-attachments/assets/28b2c783-a2f5-467c-bc1b-ad5e8c09c204)
 
 
 
